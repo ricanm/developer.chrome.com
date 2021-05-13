@@ -1,5 +1,0 @@
----
-api: runtime
----
-
-<!-- Intentionally blank -->

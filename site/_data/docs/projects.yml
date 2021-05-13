@@ -1,7 +1,0 @@
-crx:
-  - url: extensions
-  - url: webstore
-  - url: apps
-architecture:
-  - url: native-client
-  - url: multidevice
